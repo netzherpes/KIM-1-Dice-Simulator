@@ -1,7 +1,7 @@
 ; Target assembler: cc65 v2.18.0 [--target none -C dice.bin_cc65.cfg]
 ;***************************************************************
 ;* Dungeons and Dragons Dice simulator for the KIM-1           *
-;* (c) 29.7.81 Myron A. Calhoun                                *
+;* (c) 29.7.80 Myron A. Calhoun                                *
 ;*             Manhattan, KS                                   *
 ;*                                                             *
 ;* Load to address $0000                                       *
