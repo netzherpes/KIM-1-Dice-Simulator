@@ -12,4 +12,5 @@ Pressing the KIM-1's 1 to 5 Keys simulates rolling a 4, 6, 8, 10, 20 or 100 side
 Holding one of the above keys down will display successive random numbers but too fast to read. pressing any other key will clear the display to zeros. "Random" numbers are derived from the free-running build-in timer in the KIM-1.
 
 found in Compute#13, 1981 (SBC Gazette)
- [1]: https://github.com/netzherpes/KIM-1-Dice-Simulator/raw/main/dice2.jpg
+
+  [1]: https://github.com/netzherpes/KIM-1-Dice-Simulator/raw/main/dice2.jpg
